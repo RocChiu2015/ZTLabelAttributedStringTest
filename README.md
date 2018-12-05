@@ -1,2 +1,2 @@
 # ZTLabelAttributedStringTest
-本Demo主要介绍如何在普通字符串的后面加上可以点击的字符串和图片。
+本Demo主要介绍如何在普通字符串的后面加上可以点击的字符串和图片(original)。
